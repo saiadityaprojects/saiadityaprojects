@@ -10,6 +10,8 @@ Cybersecurity Engineer specializing in **AI Red Teaming | Pentesting | Vulnerabi
 Building & breaking systems to make them resilient. Recognized for delivering actionable security insights in fast-paced environments.
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4899559" style='border:none;'></iframe>
+
 
 ## 🛠️ **Cyber Toolkit**
 
