@@ -15,7 +15,7 @@ Building & breaking systems to make them resilient. Recognized for delivering ac
 <h3 align="center">🧠 TryHackMe</h3>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/highblaster">
+  <a href="https://tryhackme.com/p/Highblaster">
     <img src="https://tryhackme-badges.s3.amazonaws.com/4899559.png" alt="TryHackMe Badge" />
   </a>
 </p>
