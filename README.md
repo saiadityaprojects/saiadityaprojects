@@ -10,7 +10,18 @@ Cybersecurity Engineer specializing in **AI Red Teaming | Pentesting | Vulnerabi
 Building & breaking systems to make them resilient. Recognized for delivering actionable security insights in fast-paced environments.
 
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4899559"></iframe>
+<hr>
+
+<h3 align="center">🧠 TryHackMe</h3>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/4899559.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+<hr>
+
 
 
 
