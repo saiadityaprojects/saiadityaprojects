@@ -10,19 +10,8 @@ Cybersecurity Engineer specializing in **AI Red Teaming | Pentesting | Vulnerabi
 Building & breaking systems to make them resilient. Recognized for delivering actionable security insights in fast-paced environments.
 
 ---
-<hr>
-
-<h3 align="center">🧠 TryHackMe</h3>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/Highblaster">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4899559.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
-<hr>
-
-
+### 🧠 TryHackMe
+🔗 https://tryhackme.com/p/Highblaster
 
 
 ## 🛠️ **Cyber Toolkit**
